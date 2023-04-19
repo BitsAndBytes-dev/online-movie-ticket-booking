@@ -1,0 +1,30 @@
+.card{
+    float: right;
+    justify-content: center;
+    width: 50%;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.card img{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 5px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 6px 2px;
+    cursor: pointer;
+  }
+  
+  .button {background-color: red;}
+
